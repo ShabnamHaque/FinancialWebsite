@@ -1,0 +1,35 @@
+.button-navbar{
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+    margin-left: 330px;
+  }
+.d-block{
+    margin-left: 23%;
+    width: 50%;
+}
+
+.button2{
+    background-color: rgb(209, 206, 206);
+    border: none;
+    color: black;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    width: 180px;
+    display: inline-block;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 3px 2px;
+    cursor: pointer;
+}
+.button2:hover {background-color:rgb(161, 157, 157)}
+
+.button2:active {
+  background-color:#666;
+  transform: translateY(4px);
+}
+
+body{
+    font-size: larger;
+}
